@@ -1,5 +1,5 @@
 # IGCL
-Abstract
+# Abstract
 Accurate individual identification based on functional connectivity (FC) serves as 
 the foundation for advancing brain network analysis from population-level infer- 
 ences to individual-level studies. Graph neural networks (GNNs) have potential 
