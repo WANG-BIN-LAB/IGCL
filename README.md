@@ -51,5 +51,11 @@ conda activate IGCL
 # 安装依赖包
 pip install -r requirements.txt
 
-# Usage
+## 🚀 使用说明
+
+### 基本运行
+
+运行以下命令启动主程序：
+
+```bash
 python main.py
