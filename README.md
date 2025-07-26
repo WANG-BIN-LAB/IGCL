@@ -38,8 +38,18 @@ gender classification task, where our model likewise achieved strong performance
 - seaborn==0.11.2
 - rdkit==2022.03.2
 - tensorboardx==2.6
-# Installation
+##  🛠 环境安装
+运行以下命令创建并配置环境：
+
+```bash
+# 创建 Python 3.10 的 Conda 环境
 conda create --name IGCL python=3.10
+
+# 激活环境
+conda activate IGCL
+
+# 安装依赖包
 pip install -r requirements.txt
+
 # Usage
 python main.py
