@@ -36,24 +36,22 @@ gender classification task, where our model likewise achieved strong performance
 - argparse==1.4.0
 - scipy==1.31.1
 - scikit-learn==1.5.2
-##  🛠 环境安装
-运行以下命令创建并配置环境：
+##  🛠 Installation
+Run the following command to create and configure the environment:
 
 ```bash
-# 创建 Python 3.11 的 Conda 环境
+# Create environment
 conda create --name IGCL python=3.11.10
 
-# 激活环境
+# Activate environment
 conda activate IGCL
 
-# 安装依赖包
+# Install dependency packages
 pip install -r requirements.txt
 ```
-## 🚀 使用说明
+## 🚀 Usage
 
-### 基本运行
-
-运行以下命令启动主程序：
+Run the following command to start the main program:
 
 ```bash
 python main.py
