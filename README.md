@@ -40,8 +40,8 @@ gender classification task, where our model likewise achieved strong performance
 运行以下命令创建并配置环境：
 
 ```bash
-# 创建 Python 3.10 的 Conda 环境
-conda create --name IGCL python=3.10
+# 创建 Python 3.11 的 Conda 环境
+conda create --name IGCL python=3.11.10
 
 # 激活环境
 conda activate IGCL
