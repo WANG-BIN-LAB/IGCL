@@ -27,17 +27,15 @@ experiments demonstrate that our IGCL framework outperforms all state-of-the-art
 methods. To evaluate the cross-task transferability of IGCL, we further conducted a 
 gender classification task, where our model likewise achieved strong performance.
 # Dependencies
-- python==3.10.10
-- torch==1.11.0+cu113
-- numpy==1.21.6
-- tqdm==4.64.0
-- scikit-learn==1.0.2
-- pandas==1.3.4
-- networkx==2.5.1
-- matplotlib==3.5.1
-- seaborn==0.11.2
-- rdkit==2022.03.2
-- tensorboardx==2.6
+- python==3.11.10
+- torch==2.1.0+cu118
+- numpy==1.26.4
+- tqdm==4.67.1
+- pandas==2.2.3
+- networkx==3.4.2
+- argparse==1.4.0
+- scipy==1.31.1
+- scikit-learn==1.5.2
 ##  🛠 环境安装
 运行以下命令创建并配置环境：
 
